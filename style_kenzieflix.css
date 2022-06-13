@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500&display=swap');
+
+
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 16px;
+
+}
+.logo-kenzieflix{
+    text-align: center;
+    padding: 20px;
+}
+
+h2{
+    font-family: 'IBM plex sans', sans-serif;
+    color: white;
+    font-weight: 500;
+    text-align: center;
+    padding: 50px;
+}
+
+li{
+    list-style: none;
+    border-radius: 8px;
+}
+
+.container{
+    max-width: 700px;
+    padding: 26px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    border-radius: 8px;
+}
+
+.aline_perfil{
+    border-radius: 8px;
+    width: 160px;
+    height: 160px;
+    
+}
+
+.pedrinho_perfil{
+    border-radius: 8px;
+    width: 160px;
+    height: 160px;
+}
+
+.julia_perfil{
+    border-radius: 8px;
+    width: 160px;
+    height: 160px;
+}
+
+.avatar_perfil{
+    width: 160px;
+    height: 160px;
+
+}
+
+.plus-circle{
+    width: 160px;
+    height: 160px;
+}
+
+.plusCircle_perfil{
+    padding: 47px;
+    border-radius: 0px;
+}
+
+.gerenciarPerfis{
+    text-align: center;
+    justify-content: center;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    height: 50px;
+    width: 206px;
+    border: 1.5px solid #FFFFFF;
+    border-radius: 8px;
+    margin: auto;
+
+}
