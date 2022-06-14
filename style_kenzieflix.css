@@ -11,8 +11,12 @@ p{
     font-weight: 400;
     text-align: center;
     font-size: 16px;
-
 }
+
+p:hover{
+    opacity: 40%;
+}
+
 .logo-kenzieflix{
     text-align: center;
     padding: 20px;
@@ -47,10 +51,19 @@ li{
     
 }
 
+.aline_perfil:hover{
+    opacity: 40%;
+}
+
 .pedrinho_perfil{
     border-radius: 8px;
     width: 160px;
     height: 160px;
+}
+
+.pedrinho_perfil:hover{
+    opacity: 40%;
+
 }
 
 .julia_perfil{
@@ -59,10 +72,17 @@ li{
     height: 160px;
 }
 
+.julia_perfil:hover{
+    opacity: 40%;
+}
+
 .avatar_perfil{
     width: 160px;
     height: 160px;
+}
 
+.avatar_perfil:hover{
+    opacity: 40%;
 }
 
 .plus-circle{
@@ -70,9 +90,17 @@ li{
     height: 160px;
 }
 
+.plus-circle:hover{
+    opacity: 40%;
+}
+
 .plusCircle_perfil{
     padding: 47px;
     border-radius: 0px;
+}
+
+.plusCircle_perfil:hover{
+    opacity: 40%;
 }
 
 .gerenciarPerfis{
@@ -86,5 +114,8 @@ li{
     border: 1.5px solid #FFFFFF;
     border-radius: 8px;
     margin: auto;
+}
 
+.gerenciarPerfis:hover{
+    opacity: 40%;
 }
